@@ -1,2 +1,2 @@
-# collision-and-algorithm
-magic by my hand!!!!!!!1
+# p5.play-boilerplate
+Boiler plate for p5.play
